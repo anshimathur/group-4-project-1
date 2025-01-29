@@ -10,7 +10,7 @@ Our primary objective is to examine how migration patterns are affected by a cou
 - Provide a comprehensive analysis to answer key questions about migration trends.
 
 ## Hypothesis
-We believe there is a statistically significant relationship between migration patterns and a country’s economic conditions, specifically economic freedom and GDP. 
+We believe there is a statistically significant relationship between migration patterns and a country’s economic conditions as measured GDP and economic freedom, as well as noneconomic measurements such as conflict. 
 
 ## Key Definitions
 
