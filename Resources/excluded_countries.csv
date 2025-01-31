@@ -1,143 +1,143 @@
 ,Country
 0,Afghanistan
 1,Africa
-4,American Samoa
-5,Andorra
-7,Anguilla
-8,Antigua and Barbuda
-11,Aruba
-12,Asia
-14,Australia and New Zealand
-17,Bahamas
-25,Bermuda
-28,Bonaire Sint Eustatius and Saba
-32,British Virgin Islands
-33,Brunei
-40,Cape Verde
-41,Caribbean
-42,Cayman Islands
-44,Central America
-45,Central Asia
-46,Central and Southern Asia
-48,Channel Islands
-52,Comoros
-53,Congo
-54,Cook Islands
-56,Cote d'Ivoire
-58,Cuba
-59,Curacao
-62,Democratic Republic of Congo
-64,Developed regions
-65,Djibouti
-66,Dominica
-68,East Timor
-69,Eastern Africa
-70,Eastern Asia
-71,Eastern Europe
-72,Eastern and South-Eastern Asia
-74,Egypt
-76,Equatorial Guinea
-77,Eritrea
-81,Europe
-82,Europe and Northern America
-83,Falkland Islands
-84,Faroe Islands
-88,French Guiana
-89,French Polynesia
-91,Gambia
-95,Gibraltar
-97,Greenland
-98,Grenada
-99,Guadeloupe
-100,Guam
-106,High-income countries
-108,Hong Kong
-113,Iran
-114,Iraq
-116,Isle of Man
-124,Kiribati
-126,Kyrgyzstan
-127,Land-locked Developing Countries (LLDC)
-128,Laos
-129,Latin America and the Caribbean
-131,Least developed countries
-134,Less developed regions
-135,"Less developed regions, excluding China"
-136,"Less developed regions, excluding least developed countries"
-138,Libya
-139,Liechtenstein
-141,Low-income countries
-142,Lower-middle-income countries
-144,Macao
-148,Maldives
-151,Marshall Islands
-152,Martinique
-155,Mayotte
-156,Melanesia
-158,Micronesia
-159,Micronesia (country)
-160,Middle Africa
-161,Middle-income countries
-163,Monaco
-165,Montenegro
-166,Montserrat
-171,Nauru
-174,New Caledonia
-179,Niue
-180,North Korea
-182,Northern Africa
-183,Northern Africa and Western Asia
-184,Northern America
-185,Northern Europe
-186,Northern Mariana Islands
-188,Oceania
-189,Oceania (excluding Australia and New Zealand)
-192,Palau
-193,Palestine
-200,Polynesia
-202,Puerto Rico
-204,Reunion
-206,Russia
-208,Saint Helena
-209,Saint Kitts and Nevis
-210,Saint Lucia
-211,Saint Pierre and Miquelon
-212,Saint Vincent and the Grenadines
-213,Samoa
-214,San Marino
-215,Sao Tome and Principe
-218,Serbia
-222,Sint Maarten (Dutch part)
-223,Slovakia
-225,Small island developing States (SIDS)
-226,Solomon Islands
-227,Somalia
-229,South America
-230,South Korea
-231,South Sudan
-232,South-Eastern Asia
-233,Southern Africa
-234,Southern Asia
-235,Southern Europe
-238,Sub-Saharan Africa
-240,Suriname
-243,Syria
-248,Tokelau
-249,Tonga
-252,Turkey
-253,Turkmenistan
-254,Turks and Caicos Islands
-255,Tuvalu
-261,United States Virgin Islands
-262,Upper-middle-income countries
-264,Uzbekistan
-265,Vanuatu
-266,Vatican
-267,Venezuela
-269,Wallis and Futuna
-270,Western Africa
-271,Western Asia
-272,Western Europe
-273,Western Sahara
-274,World
-275,Yemen
+2,American Samoa
+3,Andorra
+4,Anguilla
+5,Antigua and Barbuda
+6,Aruba
+7,Asia
+8,Australia and New Zealand
+9,Bahamas
+10,Bermuda
+11,Bonaire Sint Eustatius and Saba
+12,British Virgin Islands
+13,Brunei
+14,Cape Verde
+15,Caribbean
+16,Cayman Islands
+17,Central America
+18,Central Asia
+19,Central and Southern Asia
+20,Channel Islands
+21,Comoros
+22,Congo
+23,Cook Islands
+24,Cote d'Ivoire
+25,Cuba
+26,Curacao
+27,Democratic Republic of Congo
+28,Developed regions
+29,Djibouti
+30,Dominica
+31,East Timor
+32,Eastern Africa
+33,Eastern Asia
+34,Eastern Europe
+35,Eastern and South-Eastern Asia
+36,Egypt
+37,Equatorial Guinea
+38,Eritrea
+39,Europe
+40,Europe and Northern America
+41,Falkland Islands
+42,Faroe Islands
+43,French Guiana
+44,French Polynesia
+45,Gambia
+46,Gibraltar
+47,Greenland
+48,Grenada
+49,Guadeloupe
+50,Guam
+51,High-income countries
+52,Hong Kong
+53,Iran
+54,Iraq
+55,Isle of Man
+56,Kiribati
+57,Kyrgyzstan
+58,Land-locked Developing Countries (LLDC)
+59,Laos
+60,Latin America and the Caribbean
+61,Least developed countries
+62,Less developed regions
+63,"Less developed regions, excluding China"
+64,"Less developed regions, excluding least developed countries"
+65,Libya
+66,Liechtenstein
+67,Low-income countries
+68,Lower-middle-income countries
+69,Macao
+70,Maldives
+71,Marshall Islands
+72,Martinique
+73,Mayotte
+74,Melanesia
+75,Micronesia
+76,Micronesia (country)
+77,Middle Africa
+78,Middle-income countries
+79,Monaco
+80,Montenegro
+81,Montserrat
+82,Nauru
+83,New Caledonia
+84,Niue
+85,North Korea
+86,Northern Africa
+87,Northern Africa and Western Asia
+88,Northern America
+89,Northern Europe
+90,Northern Mariana Islands
+91,Oceania
+92,Oceania (excluding Australia and New Zealand)
+93,Palau
+94,Palestine
+95,Polynesia
+96,Puerto Rico
+97,Reunion
+98,Russia
+99,Saint Helena
+100,Saint Kitts and Nevis
+101,Saint Lucia
+102,Saint Pierre and Miquelon
+103,Saint Vincent and the Grenadines
+104,Samoa
+105,San Marino
+106,Sao Tome and Principe
+107,Serbia
+108,Sint Maarten (Dutch part)
+109,Slovakia
+110,Small island developing States (SIDS)
+111,Solomon Islands
+112,Somalia
+113,South America
+114,South Korea
+115,South Sudan
+116,South-Eastern Asia
+117,Southern Africa
+118,Southern Asia
+119,Southern Europe
+120,Sub-Saharan Africa
+121,Suriname
+122,Syria
+123,Tokelau
+124,Tonga
+125,Turkey
+126,Turkmenistan
+127,Turks and Caicos Islands
+128,Tuvalu
+129,United States Virgin Islands
+130,Upper-middle-income countries
+131,Uzbekistan
+132,Vanuatu
+133,Vatican
+134,Venezuela
+135,Wallis and Futuna
+136,Western Africa
+137,Western Asia
+138,Western Europe
+139,Western Sahara
+140,World
+141,Yemen
