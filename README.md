@@ -18,7 +18,7 @@ We believe there is a statistically significant relationship between migration p
 2. **Immigration**: The process by which individuals move into a country with the intent of residing there.
 3. **Emigration**: The act of leaving one’s country of residence to live in another.
 4. **Gross Domestic Product (GDP)**: The total monetary or market value of all finished goods and services produced within a country in a specific time period.
-5. **Economic Freedom**: The ability of individuals and businesses to make economic decisions in a free and fair market environment, typically measured by factors such as property rights, freedom from corruption, tax burden, and regulatory efficiency.
+5. **Economic Freedom**: The ability of individuals and businesses to make economic decisions in a free and fair market environment, measured by factors such as size of government, legal structure & security of property rights, access to sound money, freedom to trade, and regulatory efficiency.
    
 ## Analysis Methodology
 
@@ -46,6 +46,6 @@ We believe there is a statistically significant relationship between migration p
 - [Our World in Data - Migration](https://ourworldindata.org/migration)
 - [World Bank Data - Migration](https://databank.worldbank.org/source/world-development-indicators)
 - [World Bank Data - GDP Per Capita](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?utm_source=chatgpt.com)
-- [Ecomonic Freedom](https://efotw.org/economic-freedom/dataset?geozone=world&year=2022&min-year=2&max-year=0&filter=0&page=dataset)
+- [Economic Freedom](https://efotw.org/economic-freedom/dataset?geozone=world&year=2022&min-year=2&max-year=0&filter=0&page=dataset)
 - [Google](https://google.com/)
 - [Open AI](https://openai.com/)
