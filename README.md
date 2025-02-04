@@ -49,3 +49,6 @@ We believe there is a statistically significant relationship between migration p
 - [Economic Freedom](https://efotw.org/economic-freedom/dataset?geozone=world&year=2022&min-year=2&max-year=0&filter=0&page=dataset)
 - [Google](https://google.com/)
 - [Open AI](https://openai.com/)
+
+- Presentation link:
+https://docs.google.com/presentation/d/1m9LzsnMcE7WPoLIr-qHPkzNoArSC6SQWMoIw04FDWJU/edit#slide=id.g32f54d7246a_0_37
